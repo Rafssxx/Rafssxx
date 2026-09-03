@@ -36,13 +36,6 @@
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=rafssxx&label=Profile%20Views&style=for-the-badge"
-    alt="Profile Views"
-  />
-</p>
-
 ---
 
 # 👨‍💻 Sobre mim
