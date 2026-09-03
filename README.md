@@ -23,16 +23,48 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rafssxx&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafssxx&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img 
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=rafssxx&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
+    alt="GitHub Stats"
+  />
+
+<img 
+ width="49%"
+ src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafssxx&theme=github_dark"
+ alt="Languages by Repository"
+/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafssxx&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rafssxx&theme=github_dark"
+    alt="Most Commit Language"
+  />
+
+<img
+ width="49%"
+ src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rafssxx&theme=github_dark"
+ alt="GitHub Statistics"
+/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rafssxx&theme=algolia&no-frame=true&no-bg=true&margin-w=5&row=1&column=6" alt="GitHub Trophies"/>
+  <img
+    width="98%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafssxx&theme=github_dark"
+    alt="GitHub Profile Details"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=rafssxx&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
