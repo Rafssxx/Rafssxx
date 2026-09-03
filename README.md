@@ -1,17 +1,109 @@
-<h1 align="center">Hi 👋, I'm Rafael Silva</h1>
-<h3 align="center">Desenvolvedor Fullstack</h3>
+<h1 align="center">Olá 👋, eu sou Rafael Silva</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafssxx" alt="rafssxx" /></a> </p>
+<h3 align="center">
+  Desenvolvedor Full Stack | PHP • Python • C# • TypeScript
+</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  Desenvolvedor focado na construção de aplicações web, APIs, integrações e soluções utilizando Inteligência Artificial.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/rafael-silva-da-silva-563319308">
+    <img src="https://img.shields.io/badge/LinkedIn-Rafael%20Silva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafssxx&show_icons=true&locale=en&layout=compact" alt="rafssxx" /></p>
+  <a href="https://github.com/Rafssxx">
+    <img src="https://img.shields.io/badge/GitHub-Rafssxx-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafssxx&show_icons=true&locale=en" alt="rafssxx" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafssxx&" alt="rafssxx" /></p>
+## 👨‍💻 Sobre mim
+
+* 💻 Desenvolvedor **Full Stack**
+* 🌐 Desenvolvimento de aplicações web e APIs REST
+* 🤖 Interesse em **Inteligência Artificial, LLMs e AI Agents**
+* 🐳 Experiência com **Docker, Linux, Nginx e infraestrutura**
+* 🗄️ Experiência com bancos relacionais, NoSQL e cache
+* 🚀 Desenvolvimento utilizando **Laravel, FastAPI, Vue.js, React, Angular e .NET**
+* ☁️ Experiência com deploy e infraestrutura utilizando **AWS**
+* 📚 Sempre estudando novas tecnologias e boas práticas de arquitetura de software
+
+---
+
+# 🛠️ Tecnologias e Ferramentas
+
+## 💻 Linguagens
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,python,cs,javascript,typescript,bash" />
+</p>
+
+## 🎨 Front-end
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vue,react,angular,html,css" />
+</p>
+
+## ⚙️ Back-end
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=laravel,django,fastapi,dotnet,symfony" />
+</p>
+
+## 🗄️ Bancos de Dados e Cache
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+</p>
+
+## 🚀 DevOps, Infraestrutura e Cloud
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,aws,git,github,githubactions" />
+</p>
+
+## 🤖 Inteligência Artificial
+
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/LLMs-Large%20Language%20Models-6C63FF?style=for-the-badge" alt="LLMs"/>
+  <img src="https://img.shields.io/badge/AI%20Agents-Agents-8A2BE2?style=for-the-badge" alt="AI Agents"/>
+</p>
+
+---
+
+# 🏆 GitHub
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rafssxx&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+</p>
+
+---
+
+# 📊 Estatísticas
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafssxx&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafssxx&layout=compact&langs_count=8&theme=github_dark"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafssxx&theme=github-dark-blue" alt="GitHub Streak"/>
+</p>
+
+---
+
+# 📫 Contato
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rafael-silva-da-silva-563319308">
+    <img src="https://img.shields.io/badge/LinkedIn-Rafael%20Silva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>💡 Sempre aberto para aprender, colaborar e construir novos projetos.</i>
+</p>
