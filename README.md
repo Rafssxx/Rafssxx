@@ -46,9 +46,7 @@
 * 🐳 Experiência com **Docker, Linux, Nginx e infraestrutura**
 * 🗄️ Experiência com bancos relacionais, NoSQL e cache
 * 🚀 Desenvolvimento utilizando **Laravel, FastAPI, Vue.js, React, Angular e .NET**
-* ☁️ Experiência com deploy e infraestrutura utilizando **AWS**
-* 📚 Sempre estudando novas tecnologias, arquitetura de software e boas práticas de desenvolvimento
-
+* ☁️ Experiência com deploy e infraestrutura utilizando **AWS e Cloudflare**
 ---
 
 # 🛠️ Tecnologias e Ferramentas
