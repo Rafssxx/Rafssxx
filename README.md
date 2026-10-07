@@ -29,13 +29,6 @@
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=rafssxx&theme=github-compact&hide_border=true"
-    alt="GitHub Activity Graph"
-  />
-</p>
-
 ---
 
 # 👨‍💻 Sobre mim
@@ -85,7 +78,6 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/LLMs-Large%20Language%20Models-6C63FF?style=for-the-badge" alt="LLMs"/>
   <img src="https://img.shields.io/badge/AI%20Agents-Agents-8A2BE2?style=for-the-badge" alt="AI Agents"/>
 </p>
 
