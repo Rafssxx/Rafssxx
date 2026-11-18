@@ -1,100 +1,45 @@
-<h1 align="center">Olá 👋, eu sou Rafael Silva</h1>
-
-<h3 align="center">
-  Desenvolvedor Full Stack | PHP • Python • C# • TypeScript
-</h3>
+<h1 align="center">Olá, eu sou Rafael Silva 👋</h1>
 
 <p align="center">
-  Desenvolvedor focado na construção de aplicações web, APIs, integrações e soluções utilizando Inteligência Artificial.
+  <strong>Desenvolvedor Full Stack · Estudante de Engenharia de Software</strong>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rafael-silva-da-silva-563319308">
-    <img src="https://img.shields.io/badge/LinkedIn-Rafael%20Silva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-
-  <a href="https://github.com/Rafssxx">
-    <img src="https://img.shields.io/badge/GitHub-Rafssxx-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  Desenvolvo aplicações web, APIs REST e integrações.<br>
+  Também trabalho com LLMs e agentes de IA usando Python e LangChain.
 </p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=rafssxx&theme=github-dark-blue&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
----
-
-# 👨‍💻 Sobre mim
-
-* 💻 Desenvolvedor **Full Stack**
-* 🌐 Desenvolvimento de aplicações web e APIs REST
-* 🤖 Interesse em **Inteligência Artificial, LLMs e AI Agents**
-* 🐳 Experiência com **Docker, Linux, Nginx e infraestrutura**
-* 🗄️ Experiência com bancos relacionais, NoSQL e cache
-* 🚀 Desenvolvimento utilizando **Laravel, FastAPI, Vue.js, React, Angular e .NET**
-* ☁️ Experiência com deploy e infraestrutura utilizando **AWS e Cloudflare**
----
-
-# 🛠️ Tecnologias e Ferramentas
-
-## 💻 Linguagens
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=php,python,cs,javascript,typescript,bash" alt="Languages"/>
-</p>
-
-## 🎨 Front-end
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vue,react,angular,html,css" alt="Frontend"/>
-</p>
-
-## ⚙️ Back-end
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=laravel,django,fastapi,dotnet,symfony" alt="Backend"/>
-</p>
-
-## 🗄️ Bancos de Dados e Cache
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" alt="Databases"/>
-</p>
-
-## 🚀 DevOps, Infraestrutura e Cloud
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,aws,git,github,githubactions" alt="DevOps"/>
-</p>
-
-## 🤖 Inteligência Artificial
-
-<p align="left">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/AI%20Agents-Agents-8A2BE2?style=for-the-badge" alt="AI Agents"/>
-</p>
-
----
-
-# 📫 Contato
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rafael-silva-da-silva-563319308">
-    <img src="https://img.shields.io/badge/LinkedIn-Rafael%20Silva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Rafael%20Silva-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn de Rafael Silva" />
   </a>
+</p>
 
-  <a href="https://github.com/Rafssxx">
-    <img src="https://img.shields.io/badge/GitHub-Rafssxx-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+## Tecnologias
+
+| Área | Ferramentas |
+| --- | --- |
+| Back-end | PHP, Laravel, Python, FastAPI, C# e .NET |
+| Front-end | TypeScript, Vue, React e Angular |
+| Dados | PostgreSQL, MongoDB e Redis |
+| Infraestrutura | Docker, Linux, Nginx, AWS e Cloudflare |
+
+## Atividade no GitHub
+
+<p align="center">
+  <a href="https://github.com/Rafssxx#contributions">
+    <img
+      src="https://streak-stats.demolab.com/?user=Rafssxx&amp;theme=github-dark-blue&amp;hide_border=true&amp;locale=pt_BR"
+      alt="Total de contribuições, sequência atual e maior sequência no GitHub"
+    />
   </a>
 </p>
 
 <p align="center">
-  <i>💡 Sempre aberto para aprender, colaborar e construir novos projetos.</i>
+  <a href="https://github.com/Rafssxx#contributions">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Rafssxx&amp;theme=github-compact&amp;hide_border=true&amp;custom_title=Atividade%20recente"
+      alt="Gráfico de atividade recente no GitHub"
+    />
+  </a>
 </p>
