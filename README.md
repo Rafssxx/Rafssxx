@@ -99,9 +99,6 @@ Desenvolvimento de aplicações web, APIs e integrações, com interesse em arqu
 <div align="center">
 
 <a href="https://github.com/Rafssxx">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rafssxx&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github" height="170" alt="Estatísticas do GitHub"/>
-</a>
-<a href="https://github.com/Rafssxx">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafssxx&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="170" alt="Linguagens mais utilizadas"/>
 </a>
 
