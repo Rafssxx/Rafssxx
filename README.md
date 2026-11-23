@@ -109,11 +109,6 @@ Desenvolvimento de aplicações web, APIs e integrações, com interesse em arqu
 </a>
 
 <br><br>
-
-<a href="https://github.com/Rafssxx#contributions">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rafssxx&theme=github-compact&hide_border=true&area=true&custom_title=Atividade%20de%20contribui%C3%A7%C3%B5es" width="100%" alt="Gráfico de contribuições"/>
-</a>
-
 </div>
 
 ---
